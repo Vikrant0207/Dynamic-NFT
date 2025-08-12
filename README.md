@@ -79,7 +79,8 @@ By connecting NFT ownership to external data streams, we're pioneering a new cat
 
 *Join us in creating the future of dynamic digital assets where your NFTs live, breathe, and evolve with the world around them.*
 
-
+<br>
 Contract details:0xAd66C7425331326284b275285B641b52B8056FDC
-- Screenshot:
+
+Screenshot:
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/96b78bcf-7a71-4640-9f26-5622f388ccc8" />
